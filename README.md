@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=diduseetheocean&theme=transparent)](https://github.com/diduseetheocean)
+[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=diduseetheocean&theme=transparent&count_private=true)](https://github.com/diduseetheocean)
 
 [![Chris's GitHub streak-stats](https://streak-stats.demolab.com/?user=diduseetheocean&theme=transparent)](https://github.com/diduseetheocean)
 
-[![Chris's GitHub top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diduseetheocean&theme=transparent)](https://github.com/diduseetheocean)
+[![Chris's GitHub top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diduseetheocean&theme=transparent&layout=compact)](https://github.com/diduseetheocean)
 
 <!--
 [![Chris's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username= diduseetheocean)](https://github.com/diduseetheocean)
