@@ -1,6 +1,6 @@
 ### Hi there ![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif)
 
-[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=diduseetheocean&theme=transparent&count_private=true)](https://github.com/diduseetheocean)
+<!--[![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=diduseetheocean&theme=transparent&count_private=true)](https://github.com/diduseetheocean)-->
 
 [![Chris's GitHub streak-stats](https://streak-stats.demolab.com/?user=diduseetheocean&theme=transparent)](https://github.com/diduseetheocean)
 
